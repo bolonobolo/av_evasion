@@ -8,6 +8,7 @@
  p0 == payload
  i0 == Inject
  author: bolo (twitter: @bolonobolo)
+ credits: reenz0h (twitter: @sektor7net) for the template
 
 */
 #include <windows.h>
