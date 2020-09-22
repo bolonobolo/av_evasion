@@ -9,6 +9,8 @@
  p0 == p0
  i0 == Inject
  author: bolo (twitter: @bolonobolo)
+ 
+ https://institute.sektor7.net/courses/red-team-operator-malware-development-essentials
 
 */
 #include <windows.h>
