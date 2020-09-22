@@ -9,7 +9,7 @@
  p0 == p0
  i0 == Inject
  author: bolo (twitter: @bolonobolo)
- 
+ credits: reenz0h (twitter: @sektor7net) for the template
  https://institute.sektor7.net/courses/red-team-operator-malware-development-essentials
 
 */
