@@ -1,15 +1,13 @@
 /*
 
- Red Team Operator course code AES enc AV evasion
- Tested on:
- Windows Defender --> OK
- AVGFree --> OK
- encryption with AES
- p0 == payload
- i0 == Inject
- author: bolo (twitter: @bolonobolo)
- credits: reenz0h (twitter: @sektor7net) for the template
- https://institute.sektor7.net/courses/red-team-operator-malware-development-essentials
+ __ _ ___ ___ _   _ _ __ ___   ___      | |__  _ __ ___  __ _  ___| |__  
+ / _` / __/ __| | | | '_ ` _ \ / _ \_____| '_ \| '__/ _ \/ _` |/ __| '_ \ 
+| (_| \__ \__ \ |_| | | | | | |  __/_____| |_) | | |  __/ (_| | (__| | | |
+ \__,_|___/___/\__,_|_| |_| |_|\___|     |_.__/|_|  \___|\__,_|\___|_| |_|
+                     **AV Evasion Dropper**
+                       Use At Your Own Risk
+                   Don't Use This For Stupid Shit
+                         
 
 */
 #include <windows.h>
